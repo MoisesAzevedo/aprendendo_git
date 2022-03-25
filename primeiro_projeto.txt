@@ -1,0 +1,19 @@
+A ferramenta Git facilita o trabaho em equipe para o controle de versões de um projeto. 
+
+Os principais comando do git são:
+
+git init: para criar a um novo repositório
+
+git clone: importa um repositorio remoto
+
+git add: para adicionar suas atualizações ao projeto
+
+git commit: para salvar as alterações e também comentá-las
+
+git status: exibe os arquivos adicionados ou não, e também os "commitados"
+
+git branch: cria uma branch para armazenar atualizações
+
+git push: para enviar tudo ao repositorio remoto
+
+clear: limpa o terminal
